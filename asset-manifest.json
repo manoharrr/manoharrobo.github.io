@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/manoharrobo.github.io/static/css/main.62d61e75.chunk.css",
+    "main.js": "/manoharrobo.github.io/static/js/main.ff5fe7cf.chunk.js",
+    "main.js.map": "/manoharrobo.github.io/static/js/main.ff5fe7cf.chunk.js.map",
+    "runtime-main.js": "/manoharrobo.github.io/static/js/runtime-main.efdb706a.js",
+    "runtime-main.js.map": "/manoharrobo.github.io/static/js/runtime-main.efdb706a.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/manoharrobo.github.io/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0b5b9267.chunk.js": "/manoharrobo.github.io/static/js/2.0b5b9267.chunk.js",
+    "static/js/2.0b5b9267.chunk.js.map": "/manoharrobo.github.io/static/js/2.0b5b9267.chunk.js.map",
+    "index.html": "/manoharrobo.github.io/index.html",
+    "precache-manifest.93c1ba0200a4ff96a1c02f7c7d72bebd.js": "/manoharrobo.github.io/precache-manifest.93c1ba0200a4ff96a1c02f7c7d72bebd.js",
+    "service-worker.js": "/manoharrobo.github.io/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/manoharrobo.github.io/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.62d61e75.chunk.css.map": "/manoharrobo.github.io/static/css/main.62d61e75.chunk.css.map",
+    "static/js/2.0b5b9267.chunk.js.LICENSE.txt": "/manoharrobo.github.io/static/js/2.0b5b9267.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efdb706a.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0b5b9267.chunk.js",
+    "static/css/main.62d61e75.chunk.css",
+    "static/js/main.ff5fe7cf.chunk.js"
+  ]
+}
